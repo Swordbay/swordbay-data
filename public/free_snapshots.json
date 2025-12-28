@@ -1,0 +1,99 @@
+{
+  "updated_at": "2025-12-28T13:23:51+09:00",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_compression",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.125,
+      "rv20": 0.165
+    },
+    {
+      "ticker": "GOOG",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_compression",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.23,
+      "rv20": 0.22
+    },
+    {
+      "ticker": "PLTR",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_outside_range",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.388,
+      "rv20": 0.347
+    },
+    {
+      "ticker": "NVDA",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_break_attempt",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.314,
+      "rv20": 0.243
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_outside_range",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.365,
+      "rv20": 0.33
+    },
+    {
+      "ticker": "ORCL",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_compression",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "normal",
+      "hv20": 0.607,
+      "rv20": 0.391
+    },
+    {
+      "ticker": "LLY",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_compression",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "normal",
+      "hv20": 0.243,
+      "rv20": 0.27
+    },
+    {
+      "ticker": "COIN",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_break_attempt",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "normal",
+      "hv20": 0.434,
+      "rv20": 0.454
+    },
+    {
+      "ticker": "XOM",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_compression",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "normal",
+      "hv20": 0.196,
+      "rv20": 0.174
+    },
+    {
+      "ticker": "GLD",
+      "date": "2025-12-26",
+      "weekly_state": "weekly_expanding",
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.115,
+      "rv20": 0.123
+    }
+  ],
+  "disclaimer": {
+    "jp": "本データは派生研究メトリクスのサンプルであり、研究・教育目的に限定されます。投資助言・勧誘・執行サービスではありません。",
+    "en": "This feed provides sample derived research metrics for research/educational use only. Not investment advice, solicitation, or execution services."
+  }
+}
