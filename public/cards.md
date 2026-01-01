@@ -15,5 +15,3 @@ State: weekly_break_attempt · neutral_wait · normal_body · flag fragile
 Headline: Weekly outside range · Gap +0.37% · IV/RV expensive
 Key: Range 0.426xATR | IV/RV 1.508 | Breakout -
 State: weekly_outside_range · neutral_wait · marubozu_down · flag fragile
-
-Note: For informational purposes only. Not investment advice or solicitation.

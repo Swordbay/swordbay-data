@@ -6,5 +6,3 @@ Board: Ranked by state/phase consistency (public sample)
 | 1 | AAPL | 0.400 | weekly_compression | 1.429 | 0.511 | - |
 | 2 | NVDA | -0.600 | weekly_break_attempt | 1.562 | 0.816 | - |
 | 3 | TSLA | -0.600 | weekly_outside_range | 1.508 | 0.426 | - |
-
-Note: For informational purposes only. Not investment advice or solicitation.

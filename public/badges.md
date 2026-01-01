@@ -3,5 +3,3 @@ Badges: Continuity markers (public sample)
 NVDA: Compression 0d | Unverified breakouts (last30) 1 | First vol-expand NA
 AAPL: Compression 4d | Unverified breakouts (last30) 0 | First vol-expand NA
 TSLA: Compression 0d | Unverified breakouts (last30) 0 | First vol-expand NA
-
-Note: For informational purposes only. Not investment advice or solicitation.
