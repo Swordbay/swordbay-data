@@ -2,7 +2,11 @@
   "AAPL": {
     "date": "2025-12-31",
     "ticker": "AAPL",
-    "headline": "weekly compression / IV/RV: expensive",
+    "headline": "Weekly compression · IV/RV expensive",
+    "tags": [
+      "Fragile",
+      "Compression"
+    ],
     "price": {
       "open": 273.06,
       "high": 273.68,
@@ -47,7 +51,11 @@
   "NVDA": {
     "date": "2025-12-31",
     "ticker": "NVDA",
-    "headline": "gap +1.08% / IV/RV: expensive",
+    "headline": "Weekly break attempt · Gap +1.08% · IV/RV expensive",
+    "tags": [
+      "Fragile",
+      "Break Attempt"
+    ],
     "price": {
       "open": 189.57,
       "high": 190.56,
@@ -92,7 +100,11 @@
   "TSLA": {
     "date": "2025-12-31",
     "ticker": "TSLA",
-    "headline": "gap +0.37% / IV/RV: expensive",
+    "headline": "Weekly outside range · Gap +0.37% · IV/RV expensive",
+    "tags": [
+      "Fragile",
+      "IV Expensive"
+    ],
     "price": {
       "open": 456.13,
       "high": 456.55,

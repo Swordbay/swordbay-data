@@ -1,16 +1,7 @@
-# Badges / Streak (Public Sample)
+Badges: Continuity markers (public sample)
 
-## NVDA
-- 圧縮連続 0日 / 直近30本の未確認ブレイク 1回
-- Compression streak 0d / Unconfirmed breakouts (last30): 1
-- first_vol_expand_date: None
+NVDA: Compression 0d | Unverified breakouts (last30) 1 | First vol-expand NA
+AAPL: Compression 4d | Unverified breakouts (last30) 0 | First vol-expand NA
+TSLA: Compression 0d | Unverified breakouts (last30) 0 | First vol-expand NA
 
-## AAPL
-- 圧縮連続 4日 / 直近30本の未確認ブレイク 0回
-- Compression streak 4d / Unconfirmed breakouts (last30): 0
-- first_vol_expand_date: None
-
-## TSLA
-- 圧縮連続 0日 / 直近30本の未確認ブレイク 0回
-- Compression streak 0d / Unconfirmed breakouts (last30): 0
-- first_vol_expand_date: None
+Note: For informational purposes only. Not investment advice or solicitation.
