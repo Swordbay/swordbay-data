@@ -37,107 +37,33 @@
 
 ---
 
-📅 2025-12-31  |  **IWM**
+📅 2025-12-31  |  **NVDA**
 
-**Headline**  weekly compression / IV/RV: expensive
-
-**Price Path**
-- OHLC: 248.17 / 248.28 / 246.01 / 246.16
-- Return: -0.75%
-- Gap: +0.06%
-- Range/ATR14: 0.698×
-- Close location: near day-low
-- Volume: 23.28M
-
-**Volatility**
-- HV20: 0.148 (→ 10d)
-- ATR14: 3.250 (→ 10d)
-- RV20: 0.124
-- Vol expand flag: OFF
-
-**Path State**
-- Weekly: weekly_compression
-- Phase: neutral_wait
-- Candle: marubozu_down
-- Breakout: dir=None | day_count=0 | confirmed=N
-
-**IV Context**
-- IV proxy: 0.175 (source=proxy)
-- IV/RV20: 1.406 | bucket=expensive | action=ban_long_vol
-- IV pctile(252): NA | iv_regime_on=N
-
-**Overall**
-- Flag: fragile
-- Reason: iv_gate_insufficient_days<30|slope_gate_insufficient_days<10
-
-> For information purposes only; not investment advice or solicitation.
-
----
-
-📅 2025-12-31  |  **QQQ**
-
-**Headline**  weekly compression / IV/RV: expensive
+**Headline**  gap +1.08% / IV/RV: expensive
 
 **Price Path**
-- OHLC: 619.65 / 619.96 / 614.05 / 614.31
-- Return: -0.83%
-- Gap: +0.04%
-- Range/ATR14: 0.807×
+- OHLC: 189.57 / 190.56 / 186.49 / 186.50
+- Return: -0.55%
+- Gap: +1.08%
+- Range/ATR14: 0.816×
 - Close location: near day-low
-- Volume: 29.11M
+- Volume: 79.44M
 
 **Volatility**
-- HV20: 0.132 (→ 10d)
-- ATR14: 7.320 (→ 10d)
-- RV20: 0.099
-- Vol expand flag: OFF
-
-**Path State**
-- Weekly: weekly_compression
-- Phase: neutral_wait
-- Candle: marubozu_down
-- Breakout: dir=None | day_count=0 | confirmed=N
-
-**IV Context**
-- IV proxy: 0.167 (source=proxy)
-- IV/RV20: 1.692 | bucket=expensive | action=ban_long_vol
-- IV pctile(252): NA | iv_regime_on=N
-
-**Overall**
-- Flag: fragile
-- Reason: iv_gate_insufficient_days<30|slope_gate_insufficient_days<10
-
-> For information purposes only; not investment advice or solicitation.
-
----
-
-📅 2025-12-31  |  **SPY**
-
-**Headline**  IV/RV: expensive
-
-**Price Path**
-- OHLC: 687.12 / 687.36 / 681.71 / 681.92
-- Return: -0.74%
-- Gap: +0.02%
-- Range/ATR14: 0.998×
-- Close location: near day-low
-- Volume: 51.33M
-
-**Volatility**
-- HV20: 0.086 (→ 10d)
-- ATR14: 5.660 (→ 10d)
-- RV20: 0.073
+- HV20: 0.307 (→ 10d)
+- ATR14: 4.990 (→ 10d)
+- RV20: 0.226
 - Vol expand flag: OFF
 
 **Path State**
 - Weekly: weekly_break_attempt
 - Phase: neutral_wait
-- Candle: marubozu_down
+- Candle: normal_body
 - Breakout: dir=None | day_count=0 | confirmed=N
 
 **IV Context**
-- IV proxy: 0.122 (source=proxy)
-- IV/RV20: 1.671 | bucket=expensive | action=ban_long_vol
+- IV proxy: 0.353 (source=proxy)
+- IV/RV20: 1.562 | bucket=expensive | action=ban_long_vol
 - IV pctile(252): NA | iv_regime_on=N
 
 **Overall**

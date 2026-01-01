@@ -44,115 +44,25 @@
       "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
     }
   },
-  "IWM": {
+  "NVDA": {
     "date": "2025-12-31",
-    "ticker": "IWM",
-    "headline": "weekly compression / IV/RV: expensive",
+    "ticker": "NVDA",
+    "headline": "gap +1.08% / IV/RV: expensive",
     "price": {
-      "open": 248.17,
-      "high": 248.28,
-      "low": 246.01,
-      "close": 246.16,
-      "ret1d_pct": -0.75,
-      "gap_pct": 0.06,
-      "range_atr": 0.698,
+      "open": 189.57,
+      "high": 190.56,
+      "low": 186.49,
+      "close": 186.5,
+      "ret1d_pct": -0.55,
+      "gap_pct": 1.08,
+      "range_atr": 0.816,
       "close_location": "near day-low",
-      "volume": 23.28
+      "volume": 79.44
     },
     "vol": {
-      "hv20": 0.148,
-      "rv20": 0.124,
-      "atr14": 3.25,
-      "hv20_slope10": null,
-      "atr14_slope10": null,
-      "vol_expand_on": false
-    },
-    "path": {
-      "weekly_state": "weekly_compression",
-      "path_phase": "neutral_wait",
-      "candle_shape_d1": "marubozu_down",
-      "breakout_dir": null,
-      "breakout_day_count": 0,
-      "breakout_confirm_on": false
-    },
-    "iv": {
-      "iv_proxy": 0.175,
-      "iv_source": "proxy",
-      "iv_over_rv20": 1.406,
-      "iv_rv_bucket": "expensive",
-      "iv_rv_action": "ban_long_vol",
-      "iv_pctile_252": null,
-      "iv_regime_on": false
-    },
-    "meta": {
-      "path_risk_flag": "fragile",
-      "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
-    }
-  },
-  "QQQ": {
-    "date": "2025-12-31",
-    "ticker": "QQQ",
-    "headline": "weekly compression / IV/RV: expensive",
-    "price": {
-      "open": 619.65,
-      "high": 619.96,
-      "low": 614.05,
-      "close": 614.31,
-      "ret1d_pct": -0.83,
-      "gap_pct": 0.04,
-      "range_atr": 0.807,
-      "close_location": "near day-low",
-      "volume": 29.11
-    },
-    "vol": {
-      "hv20": 0.132,
-      "rv20": 0.099,
-      "atr14": 7.32,
-      "hv20_slope10": null,
-      "atr14_slope10": null,
-      "vol_expand_on": false
-    },
-    "path": {
-      "weekly_state": "weekly_compression",
-      "path_phase": "neutral_wait",
-      "candle_shape_d1": "marubozu_down",
-      "breakout_dir": null,
-      "breakout_day_count": 0,
-      "breakout_confirm_on": false
-    },
-    "iv": {
-      "iv_proxy": 0.167,
-      "iv_source": "proxy",
-      "iv_over_rv20": 1.692,
-      "iv_rv_bucket": "expensive",
-      "iv_rv_action": "ban_long_vol",
-      "iv_pctile_252": null,
-      "iv_regime_on": false
-    },
-    "meta": {
-      "path_risk_flag": "fragile",
-      "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
-    }
-  },
-  "SPY": {
-    "date": "2025-12-31",
-    "ticker": "SPY",
-    "headline": "IV/RV: expensive",
-    "price": {
-      "open": 687.12,
-      "high": 687.36,
-      "low": 681.71,
-      "close": 681.92,
-      "ret1d_pct": -0.74,
-      "gap_pct": 0.02,
-      "range_atr": 0.998,
-      "close_location": "near day-low",
-      "volume": 51.33
-    },
-    "vol": {
-      "hv20": 0.086,
-      "rv20": 0.073,
-      "atr14": 5.66,
+      "hv20": 0.307,
+      "rv20": 0.226,
+      "atr14": 4.99,
       "hv20_slope10": null,
       "atr14_slope10": null,
       "vol_expand_on": false
@@ -160,15 +70,15 @@
     "path": {
       "weekly_state": "weekly_break_attempt",
       "path_phase": "neutral_wait",
-      "candle_shape_d1": "marubozu_down",
+      "candle_shape_d1": "normal_body",
       "breakout_dir": null,
       "breakout_day_count": 0,
       "breakout_confirm_on": false
     },
     "iv": {
-      "iv_proxy": 0.122,
+      "iv_proxy": 0.353,
       "iv_source": "proxy",
-      "iv_over_rv20": 1.671,
+      "iv_over_rv20": 1.562,
       "iv_rv_bucket": "expensive",
       "iv_rv_action": "ban_long_vol",
       "iv_pctile_252": null,
