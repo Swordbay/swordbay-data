@@ -1,43 +1,43 @@
 {
   "AAPL": {
-    "date": "2026-01-08",
+    "date": "2026-01-09",
     "ticker": "AAPL",
-    "headline": "Weekly inside range · Gap -1.26% · IV/RV expensive",
+    "headline": "Weekly expanding · IV/RV expensive",
     "tags": [
       "Stable",
       "IV Expensive"
     ],
     "price": {
-      "open": 257.06,
-      "high": 259.29,
-      "low": 255.7,
-      "close": 259.04,
-      "ret1d_pct": -0.5,
-      "gap_pct": -1.26,
-      "range_atr": 0.878,
-      "close_location": "near day-high",
-      "volume": 29.8
+      "open": 259.07,
+      "high": 260.21,
+      "low": 256.22,
+      "close": 259.37,
+      "ret1d_pct": 0.13,
+      "gap_pct": 0.01,
+      "range_atr": 1.023,
+      "close_location": "mid-range",
+      "volume": 22.57
     },
     "vol": {
-      "hv20": 0.115,
-      "rv20": 0.167,
-      "atr14": 4.09,
-      "hv20_slope10": null,
-      "atr14_slope10": null,
+      "hv20": 0.111,
+      "rv20": 0.169,
+      "atr14": 3.9,
+      "hv20_slope10": -0.001,
+      "atr14_slope10": 0.008,
       "vol_expand_on": false
     },
     "path": {
-      "weekly_state": "weekly_inside_range",
+      "weekly_state": "weekly_expanding",
       "path_phase": "mid_expand",
-      "candle_shape_d1": "normal_body",
+      "candle_shape_d1": "doji",
       "breakout_dir": "down",
-      "breakout_day_count": 4,
+      "breakout_day_count": 5,
       "breakout_confirm_on": true
     },
     "iv": {
-      "iv_proxy": 0.273,
+      "iv_proxy": 0.257,
       "iv_source": "proxy",
-      "iv_over_rv20": 1.633,
+      "iv_over_rv20": 1.523,
       "iv_rv_bucket": "expensive",
       "iv_rv_action": "ban_long_vol",
       "iv_pctile_252": null,
@@ -45,48 +45,48 @@
     },
     "meta": {
       "path_risk_flag": "safe",
-      "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
+      "reason": "iv_gate_insufficient_days<30"
     }
   },
   "NVDA": {
-    "date": "2026-01-08",
+    "date": "2026-01-09",
     "ticker": "NVDA",
-    "headline": "Weekly outside range · IV/RV expensive",
+    "headline": "Weekly expanding · IV/RV expensive",
     "tags": [
       "Fragile",
       "IV Expensive"
     ],
     "price": {
-      "open": 189.12,
-      "high": 189.55,
-      "low": 183.71,
-      "close": 185.04,
-      "ret1d_pct": -2.15,
-      "gap_pct": 0.01,
-      "range_atr": 1.166,
+      "open": 185.04,
+      "high": 186.34,
+      "low": 183.67,
+      "close": 184.86,
+      "ret1d_pct": -0.1,
+      "gap_pct": 0.0,
+      "range_atr": 0.553,
       "close_location": "mid-range",
-      "volume": 116.53
+      "volume": 88.45
     },
     "vol": {
-      "hv20": 0.305,
-      "rv20": 0.247,
-      "atr14": 5.01,
-      "hv20_slope10": null,
-      "atr14_slope10": null,
+      "hv20": 0.304,
+      "rv20": 0.246,
+      "atr14": 4.83,
+      "hv20_slope10": -0.001,
+      "atr14_slope10": -0.005,
       "vol_expand_on": false
     },
     "path": {
-      "weekly_state": "weekly_outside_range",
+      "weekly_state": "weekly_expanding",
       "path_phase": "neutral_wait",
-      "candle_shape_d1": "normal_body",
+      "candle_shape_d1": "doji",
       "breakout_dir": null,
       "breakout_day_count": 0,
       "breakout_confirm_on": false
     },
     "iv": {
-      "iv_proxy": 0.364,
+      "iv_proxy": 0.353,
       "iv_source": "proxy",
-      "iv_over_rv20": 1.472,
+      "iv_over_rv20": 1.436,
       "iv_rv_bucket": "expensive",
       "iv_rv_action": "ban_long_vol",
       "iv_pctile_252": null,
@@ -94,56 +94,56 @@
     },
     "meta": {
       "path_risk_flag": "fragile",
-      "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
+      "reason": "iv_gate_insufficient_days<30"
     }
   },
   "TSLA": {
-    "date": "2026-01-08",
+    "date": "2026-01-09",
     "ticker": "TSLA",
-    "headline": "Weekly inside range · Gap -0.82% · IV/RV expensive",
+    "headline": "Weekly outside range · IV/RV expensive",
     "tags": [
-      "Stable",
+      "Fragile",
       "IV Expensive"
     ],
     "price": {
-      "open": 427.89,
-      "high": 436.89,
-      "low": 424.36,
-      "close": 435.8,
-      "ret1d_pct": 1.02,
-      "gap_pct": -0.82,
-      "range_atr": 0.823,
-      "close_location": "near day-high",
-      "volume": 43.89
+      "open": 435.94,
+      "high": 449.05,
+      "low": 430.39,
+      "close": 445.01,
+      "ret1d_pct": 2.11,
+      "gap_pct": 0.03,
+      "range_atr": 1.254,
+      "close_location": "mid-range",
+      "volume": 54.46
     },
     "vol": {
-      "hv20": 0.401,
-      "rv20": 0.326,
-      "atr14": 15.23,
-      "hv20_slope10": null,
-      "atr14_slope10": null,
+      "hv20": 0.405,
+      "rv20": 0.333,
+      "atr14": 14.88,
+      "hv20_slope10": 0.004,
+      "atr14_slope10": -0.318,
       "vol_expand_on": false
     },
     "path": {
-      "weekly_state": "weekly_inside_range",
-      "path_phase": "mid_expand",
+      "weekly_state": "weekly_outside_range",
+      "path_phase": "failed_break",
       "candle_shape_d1": "normal_body",
-      "breakout_dir": "down",
-      "breakout_day_count": 3,
-      "breakout_confirm_on": true
+      "breakout_dir": null,
+      "breakout_day_count": 0,
+      "breakout_confirm_on": false
     },
     "iv": {
-      "iv_proxy": 0.473,
+      "iv_proxy": 0.458,
       "iv_source": "proxy",
-      "iv_over_rv20": 1.449,
+      "iv_over_rv20": 1.375,
       "iv_rv_bucket": "expensive",
       "iv_rv_action": "ban_long_vol",
       "iv_pctile_252": null,
       "iv_regime_on": false
     },
     "meta": {
-      "path_risk_flag": "safe",
-      "reason": "iv_gate_insufficient_days<30|slope_gate_insufficient_days<10"
+      "path_risk_flag": "fragile",
+      "reason": "iv_gate_insufficient_days<30"
     }
   }
 }
