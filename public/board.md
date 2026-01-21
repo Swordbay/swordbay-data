@@ -1,8 +1,8 @@
-Date: 2026-01-20
+Date: 2026-01-21
 Board: Ranked by state/phase consistency (public sample)
 
 | Rank | Ticker | Score | State | IV/RV | Range(ATR) | Breakout |
 |---:|:---:|---:|:---|---:|---:|:---:|
-| 1 | TSLA | 1.400 | weekly_compression | 1.710 | 0.944 | U(D1) |
-| 2 | AAPL | 1.000 | weekly_break_attempt | 1.683 | 2.311 | C(D11) |
-| 3 | NVDA | -0.600 | weekly_inside_range | 1.771 | 0.928 | - |
+| 1 | TSLA | 0.900 | weekly_compression | 1.571 | 1.258 | - |
+| 2 | AAPL | 0.500 | weekly_break_attempt | 1.488 | 1.215 | C(D12) |
+| 3 | NVDA | 0.200 | weekly_inside_range | 1.581 | 1.267 | - |
