@@ -1,17 +1,17 @@
-Date: 2026-01-21
+Date: 2026-01-26
 Scope: Public sample (overwritten daily)
 
-2026-01-21  AAPL
-Headline: Weekly break attempt · Gap +0.81% · IV/RV expensive
-Key: Range 1.215xATR | IV/RV 1.488 | Breakout C(D12)
-State: weekly_break_attempt · late_expand · small_body · flag safe
+2026-01-26  AAPL
+Headline: Weekly expanding · Gap +1.39% · IV/RV expensive
+Key: Range 1.280xATR | IV/RV 1.380 | Breakout C(D15)
+State: weekly_expanding · late_expand · normal_body · flag safe
 
-2026-01-21  NVDA
-Headline: Weekly inside range · Gap +0.55% · IV/RV expensive
-Key: Range 1.267xATR | IV/RV 1.581 | Breakout -
-State: weekly_inside_range · neutral_wait · normal_body · flag fragile
+2026-01-26  NVDA
+Headline: Weekly outside range · IV/RV expensive
+Key: Range 0.626xATR | IV/RV 1.718 | Breakout -
+State: weekly_outside_range · neutral_wait · long_upper_shadow · flag fragile
 
-2026-01-21  TSLA
-Headline: Weekly compression · Gap +0.57% · IV/RV expensive
-Key: Range 1.258xATR | IV/RV 1.571 | Breakout -
-State: weekly_compression · failed_break · normal_body · flag fragile
+2026-01-26  TSLA
+Headline: Weekly expanding · Gap -0.90% · IV/RV expensive
+Key: Range 0.761xATR | IV/RV 1.653 | Breakout -
+State: weekly_expanding · neutral_wait · marubozu_down · flag fragile
