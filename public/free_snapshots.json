@@ -1,95 +1,95 @@
 {
-  "updated_at": "2026-02-02T09:12:37+09:00",
+  "updated_at": "2026-02-06T09:07:54+09:00",
   "items": [
     {
       "ticker": "AAPL",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_inside_range",
-      "path_phase": "late_expand",
-      "iv_rv_bucket": "normal",
-      "hv20": 0.202,
-      "rv20": 0.231
+      "path_phase": "early_expand",
+      "iv_rv_bucket": "expensive",
+      "hv20": 0.249,
+      "rv20": 0.234
     },
     {
       "ticker": "GOOG",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_outside_range",
       "path_phase": "late_expand",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.182,
-      "rv20": 0.271
+      "hv20": 0.2,
+      "rv20": 0.302
     },
     {
       "ticker": "PLTR",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_expanding",
       "path_phase": "mid_expand",
-      "iv_rv_bucket": "expensive",
-      "hv20": 0.408,
-      "rv20": 0.421
+      "iv_rv_bucket": "normal",
+      "hv20": 0.607,
+      "rv20": 0.501
     },
     {
       "ticker": "NVDA",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_outside_range",
-      "path_phase": "mid_expand",
+      "path_phase": "neutral_wait",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.259,
-      "rv20": 0.261
+      "hv20": 0.314,
+      "rv20": 0.285
     },
     {
       "ticker": "TSLA",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_outside_range",
-      "path_phase": "failed_break",
+      "path_phase": "neutral_wait",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.399,
-      "rv20": 0.308
+      "hv20": 0.376,
+      "rv20": 0.335
     },
     {
       "ticker": "ORCL",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_expanding",
       "path_phase": "mid_expand",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.432,
-      "rv20": 0.39
+      "hv20": 0.504,
+      "rv20": 0.435
     },
     {
       "ticker": "LLY",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_outside_range",
-      "path_phase": "failed_break",
-      "iv_rv_bucket": "expensive",
-      "hv20": 0.339,
-      "rv20": 0.328
+      "path_phase": "neutral_wait",
+      "iv_rv_bucket": "normal",
+      "hv20": 0.55,
+      "rv20": 0.351
     },
     {
       "ticker": "COIN",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_expanding",
-      "path_phase": "mid_expand",
+      "path_phase": "late_expand",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.537,
-      "rv20": 0.411
+      "hv20": 0.618,
+      "rv20": 0.49
     },
     {
       "ticker": "XOM",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_expanding",
       "path_phase": "late_expand",
       "iv_rv_bucket": "expensive",
-      "hv20": 0.27,
-      "rv20": 0.207
+      "hv20": 0.252,
+      "rv20": 0.21
     },
     {
       "ticker": "GLD",
-      "date": "2026-01-30",
+      "date": "2026-02-05",
       "weekly_state": "weekly_expanding",
       "path_phase": "late_expand",
-      "iv_rv_bucket": "expensive",
-      "hv20": 0.474,
-      "rv20": 0.314
+      "iv_rv_bucket": "normal",
+      "hv20": 0.548,
+      "rv20": 0.348
     }
   ],
   "disclaimer": {
